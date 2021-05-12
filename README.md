@@ -3,6 +3,4 @@ Halo jumpa lagi ya kita, oke kali ini kita bakalan bahas topik pemrograman yang 
 
 Link download library Arduino untuk Proteus https://www.theengineeringprojects.com/downloads?file=31937 atau gdrive https://drive.google.com/drive/folders/1LldsgTJ99t6cqQ7oDUTuoder_SVFbKwK?usp=sharing
 
-Link untuk download Proteus disini https://github.com/Wayan123/LED-FlipFlop-Atmega32-Using-Cpp
-
-Atau Gdrive Proteus disini https://drive.google.com/drive/folders/1nUF4KrvMaAHk5PHdtBSOhhTYesW0UIL5?usp=sharing
+Link untuk download Proteus disini https://github.com/Wayan123/LED-FlipFlop-Atmega32-Using-Cpp atau gdrive disini https://drive.google.com/drive/folders/1nUF4KrvMaAHk5PHdtBSOhhTYesW0UIL5?usp=sharing
